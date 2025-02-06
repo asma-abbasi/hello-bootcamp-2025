@@ -1,1 +1,1 @@
-import "./1-basic-types"
+import "./types/1-basic-types"
