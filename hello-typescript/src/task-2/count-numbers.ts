@@ -5,6 +5,6 @@ export function countNumbers(items: unknown[]): number {
     if (typeof item === "number") {
       count++;
     }
-    return count;
   }
+  return count;
 }
